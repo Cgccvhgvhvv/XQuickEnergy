@@ -1,5 +1,3 @@
-release.yml
-
 name: Android CI
 
 on:
