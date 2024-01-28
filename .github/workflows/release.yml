@@ -1,7 +1,7 @@
 name: Android CI
 
 on:
-  release:
+  rel:(改成release)
     types: [published]
 
 jobs:
